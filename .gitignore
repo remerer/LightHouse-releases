@@ -1,0 +1,6 @@
+# Executables and archives are distributed through GitHub Releases.
+*.zip
+*.exe
+*.dll
+.DS_Store
+Thumbs.db
