@@ -4,7 +4,7 @@
 
 플레이어는 등대지기가 되어 낮에는 다음 근무를 준비하고, 밤에는 등댓불로 배의 항로를 안내합니다. 제한된 등유와 구조대를 관리하면서 안개, 강풍, 해적선을 넘어 네 개의 섬을 지나가세요.
 
-**[Windows 버전 다운로드](https://github.com/remerer/LightHouse-releases/releases/latest)** · **[게임 개요](GAME_OVERVIEW.md)** · **[문제 제보](https://github.com/remerer/LightHouse-releases/issues)**
+**[Windows 버전 다운로드](https://github.com/remerer/LightHouse-releases/releases/latest)** · **[발표 영상 (YouTube)](https://www.youtube.com/watch?v=4GtqG20Vnvs)** · **[게임 개요](GAME_OVERVIEW.md)** · **[문제 제보](https://github.com/remerer/LightHouse-releases/issues)**
 
 | 항목 | 내용 |
 | --- | --- |
